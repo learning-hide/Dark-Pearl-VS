@@ -1,0 +1,22 @@
+In order to use custom themes you have to patch your system files. 
+To do that, download and install Universal Theme Patcher from this link:
+
+http://deepxw.blogspot.com/2008/11/universal-theme-patcher.html
+
+Restart your computer for the changes to take effect.
+
+-----------------------------------------------------------------------
+
+To install the visual style:
+
+Place the content of the "Theme" folder in C:\Windows\Resources\Themes
+
+Double-click on Dark Pearl VS.theme to apply the style.
+
+-----------------------------------------------------------------------
+
+I've included several system files, which you can, but you don't need to change:
+
+explorer.exe - for the start button
+explorerframe.dll - for the Back-Forward buttons in Windows Explorer
+
